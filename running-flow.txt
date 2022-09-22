@@ -1,0 +1,5 @@
+cara jalanin :
+1. jalankan phpmyadmin dan apache (cth: XAMPP)
+2. buat db dengan nama db_fullstack
+3. masuk path folder backend via cmd/shell, jalankan server dengan "php spark serve --port 8081"
+4. masuk path folder frontend via cmd/shell, jalankan server dengan "npm start"
